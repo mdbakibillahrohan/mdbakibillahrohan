@@ -4,7 +4,7 @@
 
 # Hi there, I'm Md Baki Billah (Rohan) 👋
 
-I'm a passionate full-stack developer with over 3 years of experience, currently working as a software engineer at Ha-Meem. I specialize in a wide range of technologies and frameworks, including Laravel, Express.js, Hapi.js, Angular, React, .Net, Flutter, and Nest.js. My goal is to create clean, efficient, and impactful software solutions.
+I'm a passionate full-stack developer with over 3 years of experience, currently working as a software engineer at Ha-Meem. I specialize in a wide range of technologies and frameworks, including Laravel, Express.js, Angular, and Nest.js. My goal is to create clean, efficient, and impactful software solutions.
 
 ## 🚀 About Me
 
