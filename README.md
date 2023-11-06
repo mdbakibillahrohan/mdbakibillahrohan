@@ -39,7 +39,20 @@ Here are some of my featured projects:
 
 - PMS (https://github.com/mdbakibillahrohan/pms_api): Production Management System API
 - BIke Showroom((https://github.com/mdbakibillahrohan/bike_showroom)): Short project description.
-- GDS Flight (https://github.com/mdbakibillahrohan/03-web): GDS flight is a commercial software for managing Travel Agencies. 
+- GDS Flight (https://github.com/mdbakibillahrohan/03-web): GDS flight is a commercial software for managing Travel Agencies.
+
+## 💼 My Job at Ha-Meem
+
+I'm currently employed as a software engineer at Ha-Meem, where I play a pivotal role in the "Production Management" project. My responsibilities encompass:
+
+- **Bug Fixing:** I regularly identify and resolve software issues and bugs within the "Production Management" project. Meticulous debugging and problem-solving are essential for maintaining a robust and error-free system.
+
+- **Client Support:** Ensuring client satisfaction is a top priority. I work closely with our clients to address their concerns, answer questions, and align the project with their specific requirements.
+
+- **Technology Research:** Staying up to date with the latest technology trends is crucial for the success of the "Production Management" project. I conduct thorough research to identify the most suitable and cutting-edge technologies, tools, and methodologies that can enhance the system's performance and functionality.
+
+My work at Ha-Meem combines my passion for development with my dedication to meeting the needs of our clients and ensuring that our project remains at the forefront of technological advancements.
+
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/md-bakibillah-rohan-a4ab0b215/)
