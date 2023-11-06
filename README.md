@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/60601661?v=4" alt="Your Name" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/60601661?v=4" alt="Your Name" width="400"/>
 </p>
 
 # Hi there, I'm Md Baki Billah (Rohan) 👋
@@ -14,7 +14,6 @@ I'm a passionate full-stack developer with over 3 years of experience, currently
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-bakibillah-rohan-a4ab0b215/) | [Instagram](https://www.instagram.com/rohanmustafizurrahman)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [Interesting Fact]
 
 ## 🛠️ Skills
 
