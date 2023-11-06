@@ -17,12 +17,12 @@ I'm a passionate full-stack developer with over 3 years of experience, currently
 
 ## 🛠️ Skills
 
-- **Front-end:** Angular, React
+- **Front-end:** Angular, React, Vue
 - **Back-end:** Laravel, Express.js, Hapi.js, Nest.js
 - **Mobile:** Flutter
 - **Database:** MySQL, PostgreSQL, SqlServer
 - **DevOps:** Docker
-- **Other:** Git, REST APIs, GraphQL
+- **Other:** Git, REST APIs
 
 ## 📈 GitHub Stats
 
