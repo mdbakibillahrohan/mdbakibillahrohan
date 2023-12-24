@@ -21,7 +21,7 @@ I'm a passionate full-stack developer with over 3 years of experience, currently
 - **Back-end:** Laravel, Express.js, Hapi.js, Nest.js
 - **Mobile:** Flutter
 - **Database:** MySQL, PostgreSQL, SqlServer
-- **DevOps:** Docker
+- **DevOps:** Docker, GitLab
 - **Other:** Git, REST APIs
 
 ## 📈 GitHub Stats
