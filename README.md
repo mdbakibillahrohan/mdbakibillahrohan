@@ -38,7 +38,7 @@ I'm a passionate full-stack developer with over 3 years of experience, currently
 Here are some of my featured projects:
 
 - PMS (https://github.com/mdbakibillahrohan/pms_api): Production Management System API
-- BIke Showroom((https://github.com/mdbakibillahrohan/bike_showroom)): Short project description.
+- Bike Showroom((https://github.com/mdbakibillahrohan/bike_showroom)): An application for Managing Bike Showroom
 - GDS Flight (https://github.com/mdbakibillahrohan/03-web): GDS flight is commercial software for managing Travel Agencies.
 
 ## 💼 My Job at Ha-Meem
