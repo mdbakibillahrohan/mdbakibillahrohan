@@ -18,7 +18,7 @@ I'm a passionate full-stack developer with over 3 years of experience, currently
 ## 🛠️ Skills
 
 - **Front-end:** Angular, React, Vue
-- **Back-end:** Laravel, Express.js, Hapi.js, Nest.js
+- **Back-end:** Asp.Net, Laravel, Express.js, Hapi.js, Nest.js
 - **Mobile:** Flutter
 - **Database:** MySQL, PostgreSQL, SqlServer
 - **DevOps:** Docker, GitLab
@@ -58,4 +58,4 @@ My work at Ha-Meem combines my passion for development with my dedication to mee
 - [LinkedIn](https://www.linkedin.com/in/md-bakibillah-rohan-a4ab0b215/)
 - [Instagram](https://www.instagram.com/rohanmustafizurrahman)
 
-Thanks for visiting my GitHub profile! Feel free to explore my projects and get in touch for collaborations or discussions.
+Thanks for visiting my GitHub profile! Feel free to explore my projects and contact me for collaborations or discussions.
